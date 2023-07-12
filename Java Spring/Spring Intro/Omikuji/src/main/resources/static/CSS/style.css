@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+}
+
+.displayBox {
+	margin: 0 auto;
+	margin-top: 25px;
+	color: black;
+	width: 300px;
+	border: 1px solid black;
+	background-color: beige;
+	text-align: center;
+}
+
+
+.btn {
+	color: white;
+	background-color: grey;
+	margin-left: 800px;
+	margin-top: 10px;
+}
